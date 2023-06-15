@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <DockerComposeProjectPath>..\..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Azure.Messaging.ServiceBus" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" />
+	  <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" />
+	  <PackageReference Include="Microsoft.AspNetCore.SignalR.StackExchangeRedis" />
+	  <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Services.Common\Services.Common.csproj" />
+  </ItemGroup>
+
+</Project>

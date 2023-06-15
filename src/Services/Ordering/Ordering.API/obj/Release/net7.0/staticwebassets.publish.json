@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tx49reZFCNrfQdMZQAsk9Atz5pr8hHwPGoUoDUF8nX8=",
+  "Source": "Ordering.API",
+  "BasePath": "_content/Ordering.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

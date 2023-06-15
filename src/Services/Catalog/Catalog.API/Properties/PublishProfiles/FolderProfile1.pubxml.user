@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Projects\eShopContainer\src\Services\Catalog\Catalog.API\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-06-14T03:48:04.5249819Z;True|2023-06-14T09:01:27.5820721+07:00;True|2023-06-13T19:04:02.7681389+07:00;True|2023-06-13T17:23:31.1275581+07:00;True|2023-06-13T16:07:21.3557790+07:00;False|2023-06-13T16:06:51.1994767+07:00;True|2023-06-13T16:04:17.8846829+07:00;True|2023-06-13T15:16:13.3155934+07:00;True|2023-06-13T14:54:26.6322603+07:00;True|2023-06-13T11:26:45.6736029+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

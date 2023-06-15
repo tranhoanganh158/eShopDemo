@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mobile.Shopping.HttpAggregator.props" />
+</Project>

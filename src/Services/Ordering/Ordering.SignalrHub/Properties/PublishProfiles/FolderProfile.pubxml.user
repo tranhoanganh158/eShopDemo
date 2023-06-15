@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Projects\eShopContainer\src\Services\Ordering\Ordering.SignalrHub\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-06-13T04:12:31.6694832Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

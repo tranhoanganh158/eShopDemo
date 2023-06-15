@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.ServiceBus" />
+    <PackageReference Include="MediatR" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" />
+    <PackageReference Include="System.Reflection.TypeExtensions" />
+  </ItemGroup>
+
+</Project>

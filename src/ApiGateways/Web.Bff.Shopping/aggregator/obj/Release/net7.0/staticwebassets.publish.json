@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5uNbBApaTtjpoKChNiPYI5BEFMYoe0RbiEUCF222pUE=",
+  "Source": "Web.Shopping.HttpAggregator",
+  "BasePath": "_content/Web.Shopping.HttpAggregator",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
